@@ -1,1 +1,1 @@
-These are just HTML examples.
+These are just HTML examples for Html.
